@@ -72,3 +72,20 @@ img{
     font-size: 30px;
     
 }
+li{
+    text-align: left;
+}
+.left{
+    text-align: left;
+    margin-left: 10px;
+}
+#col5{
+    margin-top: 100px;
+}
+.profexp{
+    color: #08005F;
+    font-size: 75px;
+    text-align: left;
+    margin-left: 45px;
+    margin-bottom: 40px;
+}
