@@ -42,17 +42,22 @@ img{
 }
 .change1{
     color: #FFFBF7;
-    margin-left: 75px;
+    margin-left: 50px;
     margin-top: 5px;
 }
 .change2{
     color: #FFFBF7;
-    margin-left: 450px;
+    margin-left: 300px;
     margin-top: 5px;
 }
 .change3{
     color: #FFFBF7;
-    margin-left: 415px;
+    margin-left: 300px;
+    margin-top: 5px;
+}
+.change4{
+    color: #FFFBF7;
+    margin-left: 250px;
     margin-top: 5px;
 }
 .secondpic{
